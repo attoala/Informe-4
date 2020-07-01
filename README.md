@@ -42,7 +42,7 @@ Al contrario de las independientes, estas necesitan un valor extra para poder sa
       <div class="container mt-5 mb-5">
         <img src="img/00.PNG"
           alt=""
-          height="150"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
@@ -73,7 +73,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
       <div class="container mt-5 mb-5">
         <img src="img/0000.PNG"
           alt=""
-          height="150"
+          height="200"
           style ="float-left ml-4"
         />           
    </div>
