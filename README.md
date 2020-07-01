@@ -24,7 +24,7 @@ Como el nombre lo indica, no dependen de algún valor para poder ejecutarse, exi
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/0.PNG"
+        <img src="img/00.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
