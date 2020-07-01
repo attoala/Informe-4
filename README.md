@@ -31,9 +31,10 @@ Como el nombre lo indica, no dependen de algún valor para poder ejecutarse, exi
         />           
    </div>
    </section>
-*Ilustración 1, fuentes de voltaje y corriente*
    
- *Ilustración 1, Circuitos y sus nodo.*
+ *Ilustración 1, fuentes de voltaje y corriente*
+   
+ 
  **Fuentes dependientes**
 Al contrario de las independientes, estas necesitan un valor extra para poder saber si valor.
 
@@ -47,7 +48,7 @@ Al contrario de las independientes, estas necesitan un valor extra para poder sa
    </div>
    </section>
    
- *Ilustración 2, Tipos de fuentes dependientes*
+  *Ilustración 2, Tipos de fuentes dependientes*
  
  
 Con todo esto podemos entender el principio que se utiliza en el teorema de superposición.
