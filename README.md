@@ -182,7 +182,14 @@ proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente
 |------------|-----------------|---------------------|
 |**Nodo B**  |2.81[V]          |2.82[V]|
 |**Nodo C**  |4.81[V]          |4.80[V]|
-|**Nodo R**  |0[V]             |0[V]|
+
+
+***Tabla 3.2. Resultados obtenidos para el circuito de la figura 3.1.***
+|  I total   |Ix si v2=0| Ix si v1=0|
+|------------|-----------------|---------------------|
+|-25.5       |-25.5            |0|
+
+
 
 
 ## **DIAGRAMAS**
