@@ -194,7 +194,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente
 ## **DIAGRAMAS**
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/2222.PNG"
+        <img src="img/0000000.PNG"
           alt=""
           height="300"
           style ="float-left ml-4"
@@ -217,7 +217,7 @@ Crear una cuenta de Tinkercad y generar la simulación de la practica 3
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/1111.PNG"
+        <img src="img/00000000.PNG"
           alt="listado de todos los componentes utilizados para el circuito"
           height="300"
           style ="float-left ml-4"
