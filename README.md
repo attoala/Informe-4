@@ -165,8 +165,17 @@ Arme el circuito que se muestra en la figura 3.1.
    </section>
 
 
-Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
-Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla
+Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
+tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. 
+Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente.
+
+Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente.
 
 ***Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.***
 |NODO   |RESULTADOS ANALÍTICOS| RESULTADOS SIMULADOS|
