@@ -24,7 +24,7 @@ Como el nombre lo indica, no dependen de algún valor para poder ejecutarse, exi
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/00.PNG"
+        <img src="img/0.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
@@ -40,7 +40,7 @@ Al contrario de las independientes, estas necesitan un valor extra para poder sa
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/1.PNG"
+        <img src="img/00.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
@@ -56,7 +56,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/2.PNG"
+        <img src="img/000.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
@@ -71,7 +71,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
  
  <section>
       <div class="container mt-5 mb-5">
-        <img src="img/3.PNG"
+        <img src="img/0000.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
@@ -87,7 +87,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
    
    section>
       <div class="container mt-5 mb-5">
-        <img src="img/45.PNG"
+        <img src="img/00000.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
