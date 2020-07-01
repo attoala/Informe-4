@@ -24,7 +24,7 @@ Como el nombre lo indica, no dependen de algún valor para poder ejecutarse, exi
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/9.PNG"
+        <img src="img/0.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
@@ -40,7 +40,7 @@ Al contrario de las independientes, estas necesitan un valor extra para poder sa
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/9.PNG"
+        <img src="img/1.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
@@ -56,7 +56,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/9.PNG"
+        <img src="img/2.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
@@ -71,27 +71,30 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
  
  <section>
       <div class="container mt-5 mb-5">
-        <img src="img/9.PNG"
+        <img src="img/3.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
         />           
    </div>
    </section>
+   
    *Ilustración 4, circuito potencial para teorema de superposición.*
+   
    
    
    En donde se harán 2 subcircuitos desactivando una fuente a la vez y calculando el valor de la incógnita en cada caso.
    
    section>
       <div class="container mt-5 mb-5">
-        <img src="img/9.PNG"
+        <img src="img/45.PNG"
           alt=""
           height="150"
           style ="float-left ml-4"
         />           
    </div>
    </section>
+   
    *Ilustración 5.*
   
  
@@ -153,7 +156,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
 Arme el circuito que se muestra en la figura 3.1.
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/1.PNG"
+        <img src="img/11.PNG"
           alt=""
           height="200"
           style ="float-left ml-4"
