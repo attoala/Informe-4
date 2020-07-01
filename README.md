@@ -92,7 +92,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
         />           
    </div>
    </section>
-   * Ilustración 5.*
+   *Ilustración 5.*
   
  
  
