@@ -244,7 +244,7 @@ Para un comprension  total de todo lo impartido en fundamentos de circuitos elec
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/3333.PNG"
+        <img src="img/000000000.PNG"
           alt="Cronograma de actividades del informe"
           height="400"
           style ="float-left ml-4"
