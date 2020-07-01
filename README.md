@@ -15,7 +15,7 @@ Comprobar experimentalmente el Teorema de Superposición.
        
 ## MARCO TEÓRICO
 
-	“La Respuesta de un circuito lineal que tenga más de una fuente independiente es igual a cada una de las fuentes por separado” (giovannihr2005, 2014).  Es el concepto dado para lo que es el teorema de superposición, una forma mas fácil de entender es que el efecto total de algo que queremos calcular es igual a la suma de los efectos parcial de cada una de las fuentes que posee sin embargo, hay un información previa.
+La Respuesta de un circuito lineal que tenga más de una fuente independiente es igual a cada una de las fuentes por separado” (giovannihr2005, 2014).  Es el concepto dado para lo que es el teorema de superposición, una forma mas fácil de entender es que el efecto total de algo que queremos calcular es igual a la suma de los efectos parcial de cada una de las fuentes que posee sin embargo, hay un información previa.
  
 ## Fuentes
 
