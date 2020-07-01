@@ -178,13 +178,13 @@ IX, respetando tanto la polaridad del voltaje como el sentido de la corriente qu
 proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente.
 
 ***Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.***
-| V total |va si v2=0| va si v1=0|
+| V total[V] |va si v2=0| va si v1=0|
 |------------|-----------------|---------------------|
-
+|   -0.95    |6.53             | -7.48               |
 
 
 ***Tabla 3.2. Resultados obtenidos para el circuito de la figura 3.1.***
-|  I total   |Ix si v2=0| Ix si v1=0|
+|  I total [mA]  |Ix si v2=0| Ix si v1=0|
 |------------|-----------------|---------------------|
 |-25.5       |-25.5            |0|
 
