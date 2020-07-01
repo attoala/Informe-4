@@ -1,26 +1,41 @@
 # Informe-4
-#  ANÁLISIS DE NODOS.
+#  Teorema de Superposición.
 
 ## OBJETIVOS
 
-Comprobar experimentalmente el Análisis de Nodos.
+Comprobar experimentalmente el Teorema de Superposición.
 
-**Objetivos específicos:** 
- - Identificar los Nodos del circuito  
- -  Demostrar si se cumple el análisis de Nodos tanto en los valores analíticos y en los
-   simulados.    
+
+**Objetivos específicos:**  
+ - Demostrar si se cumple el Teorema de Superposición.    
  - Comprobar los resultados y los datos necesarios  del  circuito    
-   propuesto, demostrando el análisis de nodos.    
+   propuesto, demostrando el Teorema de Superposición.    
  - Comparar los resultados obtenidos tanto del  análisis teórico como
    simulado y sacar conclusiones.       
        
 ## MARCO TEÓRICO
 
-Al igual que con el análisis de mallas del anterior laboratorio y también se requiere el conocer la ley de corrientes de Kirchhoff, de esta forma se puede dar con los resultados requeridos.
+	“La Respuesta de un circuito lineal que tenga más de una fuente independiente es igual a cada una de las fuentes por separado” (giovannihr2005, 2014).  Es el concepto dado para lo que es el teorema de superposición, una forma mas fácil de entender es que el efecto total de algo que queremos calcular es igual a la suma de los efectos parcial de cada una de las fuentes que posee sin embargo, hay un información previa.
+ 
+## Fuentes
 
-**Análisis de nodos**
+**Fuentes independientes**
+Como el nombre lo indica, no dependen de algún valor para poder ejecutarse, existen 2 tipos de fuentes, las de voltaje y de corriente, también se clasifican dependiendo de la corriente, ya se alterna o continua.
 
-La incógnita que se esa buscando aquí es la tensión de 2 nodos, “Se dejará que aumente el número de nodos y se proporcionará de manera correspondiente una cantidad desconocida adicional y una ecuación extra para cada nodo agregado.” (William H. Hayt, Kemmerly, & Durbin, 2012). Una forma de entender el análisis es que, por ejemplo, un circuito que tenga 3 nodos va a tener 2 tensiones las cuales no sabemos. De forma general un circuito que tenga N nodos  tendrá N-1 tensiones desconocidas y por ende N-1 ecuaciones para encontrarlas, cabe recalcar que estas ecuaciones se encuentran gracias a la ley de corrientes e Kirchhoff y para comenzar siempre se toma un nodo de referencia, normalmente el que esté con mas ramas.
+<section>
+      <div class="container mt-5 mb-5">
+        <img src="img/9.PNG"
+          alt=""
+          height="150"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+*Ilustración 1, fuentes de voltaje y corriente*
+   
+ *Ilustración 1, Circuitos y sus nodo.*
+ **Fuentes dependientes**
+Al contrario de las independientes, estas necesitan un valor extra para poder saber si valor.
 
 <section>
       <div class="container mt-5 mb-5">
@@ -32,9 +47,54 @@ La incógnita que se esa buscando aquí es la tensión de 2 nodos, “Se dejará
    </div>
    </section>
    
-   
- *Ilustración 1, Circuitos y sus nodo.*
+ *Ilustración 2, Tipos de fuentes dependientes*
+ 
+ 
+Con todo esto podemos entender el principio que se utiliza en el teorema de superposición.
+La base este es tomar las fuentes independientes de voltaje como cortocircuitos y las fuentes independientes de corriente como circuitos abiertos, des esta forma calculamos el valor requerido en cada uno de los casos y el resultado final de cada uno es sumado para encontrar el resultado total.
 
+<section>
+      <div class="container mt-5 mb-5">
+        <img src="img/9.PNG"
+          alt=""
+          height="150"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   
+   *Ilustración 3, equivalencia de fuentes.*
+ 
+
+ Un buen ejemplo que hay es un circuito con los 2 tipos de fuente.
+ 
+ <section>
+      <div class="container mt-5 mb-5">
+        <img src="img/9.PNG"
+          alt=""
+          height="150"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   *Ilustración 4, circuito potencial para teorema de superposición.*
+   
+   
+   En donde se harán 2 subcircuitos desactivando una fuente a la vez y calculando el valor de la incógnita en cada caso.
+   
+   section>
+      <div class="container mt-5 mb-5">
+        <img src="img/9.PNG"
+          alt=""
+          height="150"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   * Ilustración 5.*
+  
+ 
+ 
 # **DESCRIPCIÓN DE LOS EQUIPOS Y MATERIALES**
 
 
@@ -184,9 +244,10 @@ Para un comprension  total de todo lo impartido en fundamentos de circuitos elec
 # **BIBLIOGRÁFICA**
 
 William H. Hayt, J., Kemmerly, J. E., & Durbin, S. M. (2012). Análisis de circuitos en ingenieria. Buffalo: Mc Graw Hill.
+#12—Teorema de superposición. (2016, mayo 30). https://www.youtube.com/watch?v=yGxCn_U6uOg&feature=youtu.be&list=PLkzvG4knsNz9x_xIDl5WlHwcHDibWHanF
 
+giovannihr2005. (2014, agosto 28). Capítulo 22: Linealidad y Superposición. Análisis de Circuitos En Ingeniería. https://analisisdecircuitos1.wordpress.com/2014/08/27/capitulo-22-linealidad-y-superposicion/
 
-Ricárdez, A., Bastién Montoya, M., Hernández, B., & H. S., R. S. (2017). Estrategias para Resolver Problemas de Introducción a la Electrostática y Magnetostática. Ciudad de Mexico.
 
 
 ## **ANEXOS**
