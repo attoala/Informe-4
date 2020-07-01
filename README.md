@@ -178,10 +178,9 @@ IX, respetando tanto la polaridad del voltaje como el sentido de la corriente qu
 proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente.
 
 ***Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.***
-|NODO   |RESULTADOS ANALÍTICOS| RESULTADOS SIMULADOS|
+| V total |va si v2=0| va si v1=0|
 |------------|-----------------|---------------------|
-|**Nodo B**  |2.81[V]          |2.82[V]|
-|**Nodo C**  |4.81[V]          |4.80[V]|
+
 
 
 ***Tabla 3.2. Resultados obtenidos para el circuito de la figura 3.1.***
