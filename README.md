@@ -264,5 +264,4 @@ giovannihr2005. (2014, agosto 28). Capítulo 22: Linealidad y Superposición. An
 
 
 ## **ANEXOS**
-
-https://github.com/fernandoSando/Informe-3/tree/master/Anexos
+https://github.com/attoala/Informe-4/tree/master/Anexos
