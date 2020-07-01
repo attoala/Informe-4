@@ -156,7 +156,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
 Arme el circuito que se muestra en la figura 3.1.
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/11.PNG"
+        <img src="img/000000.PNG"
           alt=""
           height="200"
           style ="float-left ml-4"
@@ -192,7 +192,7 @@ Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 
    **Resistores**: de 1kΩ, 2.2kΩ, 470Ω y 820Ω. 
    
-   **Fuentes**: de 12[V] y 8[V].
+   **Fuentes**: de 12[V] y 20[V].
     
 ## **DESCRIPCIÓN**
 Crear una cuenta de Tinkercad y generar la simulación de la practica 3
