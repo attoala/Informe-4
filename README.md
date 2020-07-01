@@ -124,7 +124,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
    </section>
 
 
-**Resistores** de 1.8(kΩ), 2.2(kΩ), 1.5(kΩ), 470(Ω) y 3.90(kΩ). Los utilizaremos para crear el circuito que vamos a medir
+**Resistores** de 1kΩ, 2.2kΩ, 470Ω y 820Ω. Los utilizaremos para crear el circuito que vamos a medir
 
 </section>
       <div class="container mt-5 mb-5">
@@ -187,7 +187,7 @@ Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 ## **MAPA DE VARIABLES**
 
 
-   **Resistores**: de 1.8(kΩ), 2.2(kΩ), 1.5(kΩ), 470(Ω) y 3.90(kΩ). 
+   **Resistores**: de 1kΩ, 2.2kΩ, 470Ω y 820Ω. 
    
    **Fuentes**: de 12[V] y 8[V].
     
