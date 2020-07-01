@@ -85,7 +85,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
    
    En donde se harán 2 subcircuitos desactivando una fuente a la vez y calculando el valor de la incógnita en cada caso.
    
-   section>
+   <section>
       <div class="container mt-5 mb-5">
         <img src="img/00000.PNG"
           alt=""
