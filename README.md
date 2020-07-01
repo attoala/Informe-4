@@ -58,7 +58,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
       <div class="container mt-5 mb-5">
         <img src="img/000.PNG"
           alt=""
-          height="150"
+          height="100"
           style ="float-left ml-4"
         />           
    </div>
@@ -73,7 +73,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
       <div class="container mt-5 mb-5">
         <img src="img/0000.PNG"
           alt=""
-          height="200"
+          height="100"
           style ="float-left ml-4"
         />           
    </div>
@@ -89,7 +89,7 @@ La base este es tomar las fuentes independientes de voltaje como cortocircuitos 
       <div class="container mt-5 mb-5">
         <img src="img/00000.PNG"
           alt=""
-          height="150"
+          height="200"
           style ="float-left ml-4"
         />           
    </div>
