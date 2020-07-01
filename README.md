@@ -223,15 +223,9 @@ Crear una cuenta de Tinkercad y generar la simulación de la practica 3
 
 ## **CONCLUSIONES**
 
-Con esta práctica se pudo adquirir los conocimientos teóricos de lo que el abalisis de nodos,su tipo y su clasificación de acuerdo al circuito montado.
+El teorema de superposición permite evaluar un circuito al separarlo en varios componentes, para luego sumar los datos y hallar los valores correspondientes, en el que, el resultado no cambiará y tendrá un porcentaje de error muy pequeño, puesto que, la mayoría de los valores obtenidos en el cálculo de los ejercicios propuestos fueron satisfactorios.
 
-Deducimos según ley de Kirchhoff que expone que cuando en un circuito intervienen dos o más fuentes de voltaje, además de ramificaciones estamos en presencia de una red eléctrica. Para que resolvamos una red eléctrica es necesario realizar un proceso en el cual calculamos las tensiones que circulan por cada nodo.
-
-El método del voltaje en los nodos es un método organizado para analizar un circuito, que está basado en la ley de Kirchhoff de la corriente.
-
-Es muy importante conocer el flujo de corriente en un circuito electrico puesto que este analisis se basa en elflujo de corriente para poder plantear las ecuaciones basadas en las mismas.
-
-Las leyes de Kirchhoff han sido una gran ayuda para la innovación tecnológica ya que han permitido medir con exactitud ciertas características eléctricas necesarias para que el invento funcione óptima mente.
+Al emplear el teorema de superposición, se comprueba una vez más, que es una forma más eficiente que al resolver los circuitos de manera práctica, sin embargo, hay que tener en cuenta que su aplicación se limita a circuitos con componentes lineales.
 
 ## **RECOMENDACIONES**
 
